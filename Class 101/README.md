@@ -6,6 +6,6 @@ Class 101
   
 | Chapter | Title |
 |:-:|:-:|
-| Chapter 7 | [SEO 최적화에 맞춘 상품 등록하기](https://github.com/chris0825/SmartStore/blob/main/Class%20101/Mavsaki/Chapter%2007) |
+| 7 | [SEO 최적화에 맞춘 상품 등록하기](https://github.com/chris0825/SmartStore/blob/main/Class%20101/Mavsaki/Chapter%2007) |
   
 </details>
