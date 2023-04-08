@@ -6,7 +6,7 @@ Class 101
   
 | Chapter | Title |
 |:-:|:-:|
-| 1 | [작은 기업에게 적합한 온라인 마케팅 전략](https://github.com/chris0825/SmartStore/tree/main/Class%20101/Mavsaki) |
+| 1 | [작은 기업에게 적합한 온라인 마케팅 전략](https://github.com/chris0825/SmartStore/blob/main/Class%20101/Mavsaki/Chapter%2001) |
 | 2 | [누구에게 무엇이 필요한가(상품 분석)](https://github.com/chris0825/SmartStore/blob/main/Class%20101/Mavsaki/Chapter%2007) |
 | 3 | [초보자를 위한 스마트스토어 30분 속성 강의](https://github.com/chris0825/SmartStore/blob/main/Class%20101/Mavsaki/Chapter%2007) |
 | 4 | [실제 사례로 알아보는 스마트스토어 상위노출 노하우](https://github.com/chris0825/SmartStore/blob/main/Class%20101/Mavsaki/Chapter%2007) |
