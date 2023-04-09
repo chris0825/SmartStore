@@ -2,8 +2,7 @@
 
 검색어 트렌드보다는 쇼핑 인사이트 조져
 기간은 보통 1개월
-1년 단위로 봤을 때 우하향인 제품은 고민을 해봐야한다.
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/45ffeff3-1b88-4c0d-a46b-116e38e18204/Untitled.png)
+1년 단위로 봤을 때 우하향인 제품은 고민을 해봐야한다
 
 # 02 - 경쟁 강도와 경쟁사 상품 조사하는 방법
 
