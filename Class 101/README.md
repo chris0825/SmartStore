@@ -13,5 +13,6 @@
 | 5 | [구매 전환율 200% 높이는 상세 페이지 구성과 노하우](https://github.com/chris0825/SmartStore/blob/main/Class%20101/Mavsaki/Chapter%2007) |
 | 6 | [상품 키워드 정하는 ](https://github.com/chris0825/SmartStore/blob/main/Class%20101/Mavsaki/Chapter%2007) |
 | 7 | [SEO 최적화에 맞춘 상품 등록하기](https://github.com/chris0825/SmartStore/blob/main/Class%20101/Mavsaki/Chapter%2007) |
+| 8 | [100% 상위 노출 시키는 ](https://github.com/chris0825/SmartStore/blob/main/Class%20101/Mavsaki/Chapter%2008) |
   
 </details>
