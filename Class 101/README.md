@@ -18,13 +18,13 @@
   
 | Chapter | Title |
 |:-:|:-:|
-| 1 | [작은 기업에게 적합한 온라인 마케팅 전략](https://github.com/chris0825/SmartStore/blob/main/Class%20101/Mavsaki/Chapter%2001) |
-| 2 | [누구에게 무엇이 필요한가(상품 분석)](https://github.com/chris0825/SmartStore/blob/main/Class%20101/Mavsaki/Chapter%2007) |
-| 3 | [초보자를 위한 스마트스토어 30분 속성 강의](https://github.com/chris0825/SmartStore/blob/main/Class%20101/Mavsaki/Chapter%2007) |
-| 4 | [실제 사례로 알아보는 스마트스토어 상위노출 노하우](https://github.com/chris0825/SmartStore/blob/main/Class%20101/Mavsaki/Chapter%2007) |
-| 5 | [구매 전환율 200% 높이는 상세 페이지 구성과 노하우](https://github.com/chris0825/SmartStore/blob/main/Class%20101/Mavsaki/Chapter%2007) |
-| 6 | [상품 키워드 정하는 ](https://github.com/chris0825/SmartStore/blob/main/Class%20101/Mavsaki/Chapter%2007) |
-| 7 | [SEO 최적화에 맞춘 상품 등록하기](https://github.com/chris0825/SmartStore/blob/main/Class%20101/Mavsaki/Chapter%2007) |
-| 8 | [100% 상위 노출 시키는 방법](https://github.com/chris0825/SmartStore/blob/main/Class%20101/Mavsaki/Chapter%2008) |
+| 1 | [작은 기업에게 적합한 온라인 마케팅 전략](https://github.com/chris0825/SmartStore/blob/main/Class%20101/Mavsaki/Chapter%2001.md) |
+| 2 | [누구에게 무엇이 필요한가(상품 분석)](https://github.com/chris0825/SmartStore/blob/main/Class%20101/Mavsaki/Chapter%2002.md) |
+| 3 | [초보자를 위한 스마트스토어 30분 속성 강의](https://github.com/chris0825/SmartStore/blob/main/Class%20101/Mavsaki/Chapter%2003.md) |
+| 4 | [실제 사례로 알아보는 스마트스토어 상위노출 노하우](https://github.com/chris0825/SmartStore/blob/main/Class%20101/Mavsaki/Chapter%2004.md) |
+| 5 | [구매 전환율 200% 높이는 상세 페이지 구성과 노하우](https://github.com/chris0825/SmartStore/blob/main/Class%20101/Mavsaki/Chapter%2005.md) |
+| 6 | [상품 키워드 정하는 방법](https://github.com/chris0825/SmartStore/blob/main/Class%20101/Mavsaki/Chapter%2006.md) |
+| 7 | [SEO 최적화에 맞춘 상품 등록하기](https://github.com/chris0825/SmartStore/blob/main/Class%20101/Mavsaki/Chapter%2007.md) |
+| 8 | [100% 상위 노출 시키는 방법](https://github.com/chris0825/SmartStore/blob/main/Class%20101/Mavsaki/Chapter%2008.md) |
   
 </details>
