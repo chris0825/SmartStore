@@ -6,11 +6,11 @@
   
 | Chapter | Title |
 |:-:|:-:|
-| 2 | [판매상품 등록하기]() |
-| 3 | [업무 프로세스]() |
-| 4 | [상품 관리 방법 알아보기]() |
-| 5 | [매출 전략]() |
-| 6 | [사업 중심잡기]() |
+| 2 | [판매상품 등록하기](https://github.com/chris0825/SmartStore/blob/main/Class%20101/wetak/Chapter%2002.md) |
+| 3 | [업무 프로세스](https://github.com/chris0825/SmartStore/blob/main/Class%20101/wetak/Chapter%2003.md) |
+| 4 | [상품 관리 방법 알아보기](https://github.com/chris0825/SmartStore/blob/main/Class%20101/wetak/Chapter%2004.md) |
+| 5 | [매출 전략](https://github.com/chris0825/SmartStore/blob/main/Class%20101/wetak/Chapter%2005.md) |
+| 6 | [사업 중심잡기](https://github.com/chris0825/SmartStore/blob/main/Class%20101/wetak/Chapter%2006.md) |
 </details>
 
 <details>
