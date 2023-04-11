@@ -26,9 +26,9 @@
 | 6 | [상품 키워드 정하는 방법](https://github.com/chris0825/SmartStore/blob/main/Class%20101/Mavsaki/Chapter%2006.md) |
 | 7 | [SEO 최적화에 맞춘 상품 등록하기](https://github.com/chris0825/SmartStore/blob/main/Class%20101/Mavsaki/Chapter%2007.md) |
 | 8 | [100% 상위 노출 시키는 방법](https://github.com/chris0825/SmartStore/blob/main/Class%20101/Mavsaki/Chapter%2008.md) |
-| 9 | [광고 대행사가 하고 있는 모든 바이럴 방법을 공개합니다] |
-| 10 | [1인 기업이 대행사를 이기는 유일한 방법] |
-| 11 | [실무자만 알고 있는 초특급 꿀팁] |
+| 9 | [광고 대행사가 하고 있는 모든 바이럴 방법을 공개합니다](https://github.com/chris0825/SmartStore/blob/main/Class%20101/Mavsaki/Chapter%2009.md) |
+| 10 | [1인 기업이 대행사를 이기는 유일한 방법](https://github.com/chris0825/SmartStore/blob/main/Class%20101/Mavsaki/Chapter%20010.md) |
+| 11 | [실무자만 알고 있는 초특급 꿀팁](https://github.com/chris0825/SmartStore/blob/main/Class%20101/Mavsaki/Chapter%20011.md) |
 | Outro | [완강을 축하합니다] |
 
 </details>
